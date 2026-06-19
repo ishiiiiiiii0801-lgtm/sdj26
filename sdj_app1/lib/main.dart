@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'おい',
+      title: 'Resta',
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: const Color.fromARGB(255, 111, 223, 223)),
       ),
